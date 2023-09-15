@@ -1,4 +1,3 @@
 # juegojs
 
-<img src="portada.png"/>
-<img src="juego.png"/>
+<img src="portada.jpg"/>
